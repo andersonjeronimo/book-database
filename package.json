@@ -1,0 +1,17 @@
+{
+  "name": "book-database",
+  "version": "1.0.0",
+  "description": "Smart contract to store a list of books",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.1",
+    "typescript": "^5.3.2"
+  }
+}
